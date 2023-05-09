@@ -174,7 +174,7 @@ console.log(result1);
 
 //     Підказка(https://ukr-lifehacks.ed-era.com/rozdil-9/zvyazok_chislivnykiv)
 
-let meters = 98989;
+let meters = 1000;
 let kilometers = meters / 1000;
 
   if (meters >= 1000) {
